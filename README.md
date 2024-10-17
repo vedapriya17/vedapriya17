@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **vedapriya2003@gmail.com**
 
-- ⚡ Fun fact **I think I am fun**
+- ⚡ Fun fact **I think I am funny**
 
 ## 🌐 Socials:
 <h3 align="left">Connect with me:</h3>
