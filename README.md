@@ -41,11 +41,3 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedapriya17" alt="vedapriya17" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/v_vedapriya" target="blank"><img src="https://img.shields.io/twitter/follow/v_vedapriya?logo=twitter&style=for-the-badge" alt="v_vedapriya" /></a> </p>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/vedapriya17/vedapriya17/output/snake.svg" alt="Snake animation" />
-
-###
