@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Web Development,MERN**
 
-- 📫 How to reach me **vedapriya2003@gmail.com**
+- 📫 How to reach me **tolikondavedapriya@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 
