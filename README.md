@@ -2,8 +2,20 @@
 <p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=Web+Developer;Full+Stack+Developer;Wordpress+Developer" alt="Typing SVG" /></a></p>
     
 [![Website](https://img.shields.io/website?style=for-the-badge&up_message=Tolikonda%20vedapriya&url=https%3A%2F%2Fvedapriya17.github.io/My_portfolio%2F)](https://vedapriya17.github.io/My_portfolio/)
-<img align="right" src="https://user-images.githubusercontent.com/94145573/167327452-29b47dbe-1ea4-4f52-b116-435b08add748.gif" alt="Hola Coders" width="500" height="350"/>
+<h2 align="center"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/>Connect With Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="50"/></h2>
 
+<p align="center">
+<a href="https://vedapriya17.github.io/My_portfolio/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=n9d0Hm43JCPK&format=png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/veda-priya-8524b8259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veda-priya-8524b8259/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/priyuu.__17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://api.whatsapp.com/send/?phone=919154202411&text&app_absent=0&lang=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="simplified_learner" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vedapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/vedapriya" height="30" width="40" /></a>
+<a href="https://github.com/vedapriya17" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/50/FD7E14/github.png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
+<a href="https://twitter.com/v_vedapriya" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/twitter.png" alt="https://dev.to/shinchancode" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vedapriya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedapriya17" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/tolikonda vedapriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tolikonda vedapriya" height="30" width="40" /></a>
+</p>
+<br>
 # 💫 About Me:
 - 🔭 I’m currently working on **ChatApp**
 
@@ -17,16 +29,6 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/v_vedapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="v_vedapriya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/tolikonda vedapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tolikonda vedapriya" height="30" width="40" /></a>
-<a href="https://instagram.com/priyuu__17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyuu__17" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/tolikonda vedapriya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tolikonda vedapriya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vedapriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vedapriya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vedapriya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vedapriya17" height="30" width="40" /></a>
-</p>
 
 # 💻 Tech Stack:
 <h3 align="left">Languages and Tools:</h3>
