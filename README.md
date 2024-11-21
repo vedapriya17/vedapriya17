@@ -34,5 +34,7 @@
 <p align="center" ><img src="https://streak-stats.demolab.com?user=vedapriya17&theme=dark&border_radius=7.8" alt="vedapriya17" /></p>
 </details>
 
+![veda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedapriya17&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vedapriya17" alt="vedapriya17" /></a> </p>
