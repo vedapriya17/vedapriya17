@@ -18,6 +18,22 @@
 <br>
 <p align="center"> <img height="25px" src="https://komarev.com/ghpvc/?username=vedapriya17&label=Profile%20views&color=0e75b6&style=flat" alt="Tolikonda vedapriya" /> </p>
 
+<h2 align="center"> Languages & Tools </h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,nodejs,flask,git,react" />
+  <br>
+    <img src="https://skillicons.dev/icons?i=mysql,vscode,aws" />
+</p><br>
+<hr>
+
+<details open> 
+  <summary><h2>📊 GitHub Stats:</h2></summary>
+
+<p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vedapriya17&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="vedapriya17" /></p>
+<p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedapriya17&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="vedapriya17" /></p>
+<p align="center" ><img src="https://streak-stats.demolab.com?user=vedapriya17&theme=dark&border_radius=7.8" alt="vedapriya17" /></p>
+</details>
+
 # 💫 About Me:
 - 🔭 I’m currently working on **ChatApp**
 
