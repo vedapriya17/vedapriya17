@@ -1,6 +1,7 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
-<h1 align="center">Hi 👋, I'm Tolikonda vedapriya</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">Hey there, I'm Tolikonda Vedapriya <a href="https://vedapriya17.github.io/My_portfolio/">My_portfolio<a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h3>
+<p align="center" ><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=535&lines=Web+Developer;Full+Stack+Developer;Wordpress+Developer" alt="Typing SVG" /></a></p>
+    
+[![Website](https://img.shields.io/website?style=for-the-badge&up_message=Tolikonda%20vedapriya&url=https%3A%2F%2Fvedapriya17.github.io/My_portfolio%2F)](https://vedapriya17.github.io/My_portfolio/)
 <img align="right" src="https://user-images.githubusercontent.com/94145573/167327452-29b47dbe-1ea4-4f52-b116-435b08add748.gif" alt="Hola Coders" width="500" height="350"/>
 
 # 💫 About Me:
