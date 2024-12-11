@@ -32,7 +32,7 @@
 
 <p align="center" >&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vedapriya17&theme=merko&hide_border=false&include_all_commits=true&count_private=true&show_icons=true&locale=en" alt="vedapriya17" /></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vedapriya17&theme=merko&hide_border=false&show_icons=true&locale=en&layout=compact" alt="vedapriya17" /></p>
-<p align="center" ><img src="https://streak-stats.demolab.com?user=vedapriya17&theme=dark&border_radius=7.8" alt="vedapriya17" /></p>
+
 </details>
 
 ![veda's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vedapriya17&bg_color=000000&color=8c8aff&line=5257ff&point=38e8ff&area=true&hide_border=true)
